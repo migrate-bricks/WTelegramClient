@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "WTelegramClient.cli": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "phone_number": "+8613286632789",
+        "api_id": "8822807",
+        "api_hash": "d6e4622794228d0d48700401c0a2cf3c"
+      },
+      "nativeDebugging": true
+    }
+  }
+}
